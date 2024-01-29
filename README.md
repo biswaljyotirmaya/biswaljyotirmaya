@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @biswaljyotirmaya
-- 👀 I’m interested in Full-Stack Development
+- 👀 I’m interested in React Development
 - 🌱 I’m currently learning M.Sc. at Utkal University Vanivihar, Bhubaneswar
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
