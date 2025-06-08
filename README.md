@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:jyotirmayabiswal03@gmail.com"><img src="https://img.shields.io/badge/Gmail-jyotirmayabiswal03@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/jyotirmaya03"><img src="https://img.shields.io/badge/GitHub-jyotirmaya03-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/biswaljyotirmaya"><img src="https://img.shields.io/badge/GitHub-biswaljyotirmaya-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
@@ -75,15 +75,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotirmaya03&show_icons=true&theme=radical" alt="Jyotirmaya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biswaljyotirmaya&show_icons=true&theme=radical" alt="Jyotirmaya's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmaya03&theme=radical" alt="Jyotirmaya's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswaljyotirmaya&theme=radical" alt="Jyotirmaya's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmaya03&layout=compact&theme=radical" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswaljyotirmaya&layout=compact&theme=radical" alt="Most used languages" />
 </p>
 
 ---
