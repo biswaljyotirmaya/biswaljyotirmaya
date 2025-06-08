@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Kanhu Charan Behera</h1>
+<h1 align="center">Hi 👋, I'm Jyotirmaya Biswal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+AWS;React+%7C+MongoDB+%7C+Redis+%7C+Docker;Learning+%7C+Building+%7C+Innovating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;React+%7C+MongoDB+%7C+Redis+%7C+Docker;Learning+%7C+Building+%7C+Innovating" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://kanha-website.netlify.app"><img src="https://img.shields.io/badge/Portfolio-kanha--website.netlify.app-blue?style=for-the-badge&logo=netlify"></a>
-  <a href="mailto:beherakanha029@gmail.com"><img src="https://img.shields.io/badge/Gmail-beherakanha029@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/kanhugit"><img src="https://img.shields.io/badge/GitHub-kanhugit-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:jyotirmayabiswal03@gmail.com"><img src="https://img.shields.io/badge/Gmail-jyotirmayabiswal03@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/jyotirmaya03"><img src="https://img.shields.io/badge/GitHub-jyotirmaya03-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎯 I'm a **Java Full Stack Developer** with hands-on experience in **Spring Boot, Microservices, React.js, MongoDB, AWS, Docker**, and more.
-- 💡 I love building scalable web apps and APIs that solve real-world problems.
-- 📚I am a  **MCA** graduate from **IMIT Cuttack** (2022–2024).
-- 🧠 Trained at **JSPIDER Training Center, Hyderabad** in Java Full Stack Development.
-- 🔥 I’m currently working on a **state-level project (IES)** for the **State Government of Rhode Island**.
+- 🎯 I'm a **Java Full Stack Developer** specializing in **Spring Boot, REST APIs, Microservices, Kafka, and ReactJS**.
+- 🛠️ Building **GramBazzar** – a rural e-commerce platform using microservices architecture.
+- 🎓 Completed **M.Sc. in Computer Science** from **Utkal University, Vani Vihar, Bhubaneswar**.
+- 💻 Trained at **Naresh IT, Hyderabad** in Java Full Stack Development.
+- 🌱 Currently expanding knowledge in **Kafka, Spring Security, and DevOps tools**.
 
 ---
 
@@ -26,7 +25,7 @@
 
 #### 💻 Programming & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,bootstrap" />
 </p>
 
 #### 🚀 Frameworks & Libraries
@@ -41,7 +40,7 @@
 
 #### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,jenkins,git,github" />
 </p>
 
 #### 🧰 Tools & Utilities
@@ -50,50 +49,50 @@
   <img src="https://img.shields.io/badge/JSP-2C2255?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MobaXterm-005F87?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Putty-FFCC00?style=for-the-badge&logo=windows-terminal&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 </p>
 
 ---
 
-### 💼 My Projects
+### 💼 Projects
 
-#### 🔹 [Integrity Eligibility System (IES)](https://kanha-website.netlify.app/)
-- ⚙️ Secure intranet app for **State of Rhode Island** (SNAP, Medicaid, Medicare, etc.)
-- 🧩 Technologies: Spring Boot, Microservices, REST API, AWS S3, Redis, Angular
+#### 🔹 GramBazzar (Ongoing)
+- 🛒 A microservices-based e-commerce platform for rural shops and customers.
+- 🧩 **Tech Used:** Spring Boot, Spring Cloud, Kafka, ReactJS, MySQL, Redis, JWT, Swagger, Docker
 
-#### 🔹 Report Generation App
-- 📈 Built for dynamic reports with Spring Boot + Thymeleaf + Bootstrap
+#### 🔹 REST API Calculator
+- ➕ API to perform arithmetic operations using Spring Boot
+- 💻 Focused on REST principles and unit testing
 
-#### 🔹 Education Application
-- 🎓 Student enquiry system with login, status update, and filtering
+#### 🔹 Admin Dashboard App
+- 📊 Built with Spring Boot + Thymeleaf for internal user/admin management
+- 🔐 User login, admin actions, and logs stored via Kafka
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanhugit&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhugit&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotirmaya03&show_icons=true&theme=radical" alt="Jyotirmaya's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmaya03&theme=radical" alt="Jyotirmaya's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmaya03&layout=compact&theme=radical" alt="Most used languages" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 📫 Connect with Me
 
-<p align="center">
-  <a href="mailto:beherakanha029@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-beherakanha029@gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/kanhugit">
-    <img src="https://img.shields.io/badge/GitHub-kanhugit-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://kanha-website.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-kanha--website.netlify.app-green?style=for-the-badge&logo=netlify">
-  </a>
-</p>
+- 📧 Email: [jyotirmayabiswal03@gmail.com](mailto:jyotirmayabiswal03@gmail.com)
+- 💼 LinkedIn: *(Add your profile link if available)*
 
 ---
+
+> ⚡ Fun fact: I love breaking monoliths into microservices and debugging them like Sherlock Holmes! 🕵️‍♂️
