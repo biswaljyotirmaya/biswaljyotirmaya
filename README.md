@@ -1,98 +1,98 @@
 <h1 align="center">Hi 👋, I'm Jyotirmaya Biswal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;React+%7C+MongoDB+%7C+Redis+%7C+Docker;Learning+%7C+Building+%7C+Innovating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Microservices;Building+scalable+apps+with+modern+tools;Learning+%7C+Innovating+%7C+Delivering+Impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:jyotirmayabiswal03@gmail.com"><img src="https://img.shields.io/badge/Gmail-jyotirmayabiswal03@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/biswaljyotirmaya"><img src="https://img.shields.io/badge/GitHub-biswaljyotirmaya-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:jyotirmayabiswal03@gmail.com"><img src="https://img.shields.io/badge/Gmail-jyotirmayabiswal03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/biswaljyotirmaya"><img src="https://img.shields.io/badge/GitHub-biswaljyotirmaya-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-- 🎯 I'm a **Java Full Stack Developer** specializing in **Spring Boot, REST APIs, Microservices, Kafka, and ReactJS**.
-- 🛠️ Building **GramBazzar** – a rural e-commerce platform using microservices architecture.
-- 🎓 Completed **M.Sc. in Computer Science** from **Utkal University, Vani Vihar, Bhubaneswar**.
-- 💻 Trained at **Naresh IT, Hyderabad** in Java Full Stack Development.
-- 🌱 Currently expanding knowledge in **Kafka, Spring Security, and DevOps tools**.
+- 🔭 I’m currently building **GramBazzar** – a scalable rural e-commerce platform using microservices.
+- 🌱 Exploring **Kafka**, **Spring Security**, **Docker**, and **CI/CD pipelines**.
+- 👨‍🏫 Mentor at **Naresh iTechnologies**, helping students build full-stack projects.
+- 📍 Based in **Hyderabad, India**, passionate about backend systems, architecture, and scalable app design.
 
 ---
 
-### 🧠 Skills & Technologies
+### 🧰 Tech Stack
 
-#### 💻 Programming & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,bootstrap" />
-</p>
+#### 💻 Languages
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-#### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,react,redux" />
-</p>
+#### ⚙️ Back-End
+![Spring](https://skillicons.dev/icons?i=spring)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-ff69b4?style=for-the-badge)
+
+#### 🖥️ Front-End
+![React](https://skillicons.dev/icons?i=react)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 #### 🗃️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
-</p>
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Oracle](https://img.shields.io/badge/Oracle-DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-#### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,jenkins,git,github" />
-</p>
-
-#### 🧰 Tools & Utilities
-<p>
-  <img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-2C2255?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-</p>
+#### ☁️ DevOps & Tools
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-### 💼 Projects
+### 📂 Highlight Projects
 
-#### 🔹 GramBazzar (Ongoing)
-- 🛒 A microservices-based e-commerce platform for rural shops and customers.
-- 🧩 **Tech Used:** Spring Boot, Spring Cloud, Kafka, ReactJS, MySQL, Redis, JWT, Swagger, Docker
+#### 🔹 GramBazzar
+> A full-fledged rural e-commerce system using Spring Cloud microservices architecture.
+- ✨ Features: User & Vendor Management, Order System, Product Listings
+- 🔧 Tech: Spring Boot, React, Redis, MySQL, JWT, Kafka, Docker
 
-#### 🔹 REST API Calculator
-- ➕ API to perform arithmetic operations using Spring Boot
-- 💻 Focused on REST principles and unit testing
+#### 🔹 Job Portal System
+> RESTful API + React front-end job board system for employers and candidates.
 
-#### 🔹 Admin Dashboard App
-- 📊 Built with Spring Boot + Thymeleaf for internal user/admin management
-- 🔐 User login, admin actions, and logs stored via Kafka
+#### 🔹 Weather Forecasting App
+> Real-time weather updates using third-party APIs with a modern React UI.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biswaljyotirmaya&show_icons=true&theme=radical" alt="Jyotirmaya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biswaljyotirmaya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswaljyotirmaya&theme=radical" alt="Jyotirmaya's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswaljyotirmaya&theme=tokyonight" alt="Streak Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswaljyotirmaya&layout=compact&theme=radical" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswaljyotirmaya&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🌍 Let's Connect
 
-- 📧 Email: [jyotirmayabiswal03@gmail.com](mailto:jyotirmayabiswal03@gmail.com)
-- 💼 LinkedIn: *(Add your profile link if available)*
+- 📧 Email: jyotirmayabiswal03@gmail.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/jyotirmayabiswal03/]
 
 ---
 
-> ⚡ Fun fact: I love breaking monoliths into microservices and debugging them like Sherlock Holmes! 🕵️‍♂️
