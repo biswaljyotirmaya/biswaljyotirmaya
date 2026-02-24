@@ -1,119 +1,164 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jyotirmaya+Biswal!;Java+Full+Stack+Developer;Building+Awesome+Web+Apps;Spring+Boot+%7C+React+%7C+Microservices" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jyotirmaya+Biswal;Java+%7C+Spring+Boot+%7C+React;Microservices+Architect;4%2B+Projects+%26+Counting;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="mailto:jyotirmayabiswal03@gmail.com"><img src="https://img.shields.io/badge/Email-jyotirmayabiswal03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/biswaljyotirmaya"><img src="https://img.shields.io/badge/GitHub-biswaljyotirmaya-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jyotirmayabiswal03"><img src="https://img.shields.io/badge/LinkedIn-Jyotirmaya_Biswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jyotirmayabiswal03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jyotirmayabiswal03"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/biswaljyotirmaya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-Building%20Microservices-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/FOCUS-Multi--Vendor%20E--Commerce-10B981?style=flat-square" />
+</p>
 
-## 🌟 Who Am I?
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-Hey there! I'm **Jyotirmaya Biswal**, a passionate **Java Full Stack Developer** from **Hyderabad, India** 🌍. I love crafting scalable web apps that blend robust backends with sleek frontends. With **4+ projects** under my belt, including a microservices-powered e-commerce platform, I thrive on turning ideas into reality using **Java**, **Spring Boot**, and **React**. Currently, I'm mentoring aspiring developers at **Naresh iTechnologies**, sharing my expertise and pushing the boundaries of modern tech 🚀.
+## 💫 About Me
 
-- 🎯 **Mission**: Build high-performance systems that solve real-world problems.
-- 🔧 **Currently hacking on**: A multi-vendor e-commerce platform with Spring Boot microservices.
-- 📚 **Learning**: Kubernetes, GraphQL, and advanced CI/CD pipelines.
-- ⚡ **Fun vibe**: Competitive coder by day, cricket enthusiast by evening!
+```javascript
+const jyotirmaya = {
+  location: "Hyderabad, India 🇮🇳",
+  role: "Java Full Stack Developer",
+  education: {
+    masters: "M.Sc Computer Science - Utkal University (2022-2024)",
+    bachelors: "B.Sc Computer Science - Govt. Autonomous College (2019-2022)"
+  },
+  certifications: [
+    "Java Full Stack Development - Naresh iTechnologies",
+    "Full Stack Web Development - Apna College"
+  ],
+  currentFocus: "Building scalable microservices",
+  techStack: {
+    backend: ["Java", "Spring Boot", "Spring Cloud", "Hibernate", "REST APIs"],
+    frontend: ["React", "Redux", "JavaScript", "Tailwind CSS", "Bootstrap"],
+    databases: ["MySQL", "MongoDB", "Redis", "Oracle"],
+    tools: ["Git", "Docker", "Postman", "Swagger", "Eureka Server"]
+  }
+};
+```
 
----
+## ⚡ Tech Stack
 
-## 🛠️ Tech Arsenal
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge" />
+</p>
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### 🔧 Back-End
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0088CC?style=flat-square)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+</p>
 
-### 🎨 Front-End
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+## 🏆 Featured Projects
 
-### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 🛍️ Multi-Vendor E-Commerce Platform | *02/2025 - 05/2025*
+**Microservices-based solution with Redis caching**
+- Collaborated in a team of 3 to build end-to-end e-commerce platform
+- Designed User Management microservice with JWT authentication
+- Integrated Redis caching (95% faster response times)
+- Implemented service discovery with Eureka Server
 
----
+```
+Tech Stack: Java | Spring Boot | Spring Cloud | React | Redux | MySQL | Redis | Eureka | Tailwind CSS
+```
 
-## 🔥 Featured Projects
+### 💼 Job Portal Application | *09/2024 - 11/2024*
+**Full-stack job board with RESTful APIs**
+- Built APIs with Spring Boot MVC for job posting and applications
+- Integrated MySQL for efficient job data storage
+- Created React frontend with keyword-based search
+- Reduced search latency by 40% with optimized queries
 
-### 🛒 Multi-Vendor E-Commerce Platform
-> A cutting-edge e-commerce system powered by microservices for scalable vendor-user interactions.
-- **Features**: User authentication, product management, order processing with Redis caching.
-- **Tech**: Spring Boot, React, MySQL, Redis, Eureka Server, Tailwind CSS, Git.
-- **Impact**: Slashed API response time by 95% with Redis optimization.
-
-### 💼 Job Portal Application
-> A robust job board with RESTful APIs for seamless employer-candidate interactions.
-- **Features**: Job posting, application tracking, keyword-based search.
-- **Tech**: Java, Spring Boot, MySQL.
-- **Impact**: Reduced search latency by 40% with optimized APIs.
-
-### 🎥 Video Library Application
-> A full-stack app for video content management and user engagement.
-- **Features**: Admin video CRUD, user search, like/comment functionality.
-- **Tech**: Java, Spring Boot, React, MySQL.
-- **Impact**: Boosted user engagement by 25% with intuitive features.
-
----
+```
+Tech Stack: Java | Spring Boot | React | MySQL
+```
 
 ## 💼 Experience
 
-### Java Full Stack Developer Mentor  
-**Naresh iTechnologies, Hyderabad** | Feb 2025 - Present
-- Guide 20+ students in building full-stack apps with Java, Spring Boot, and React.
-- Enhance project quality by 30% through rigorous code reviews and best practices.
-- Develop microservices-based demos to teach modern architecture.
+### Freelance Full Stack Developer @ PropertyMeasure.ai | *07/2025 - 12/2025*
+- Developed React components with OpenLayers for geospatial visualization
+- Integrated backend services for land measurement workflows
+- Translated complex landscaping requirements into technical solutions
 
----
+### Java Full Stack Trainee @ Naresh iTechnologies | *06/2024 - 03/2025*
+- Completed intensive training in Java, Spring Boot, and React
+- Built multiple projects implementing microservices architecture
+- Collaborated on team projects using Git workflow
 
-## 📊 Code Stats
+## ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biswaljyotirmaya&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswaljyotirmaya&theme=radical" alt="Streak Stats" width="400" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=biswaljyotirmaya&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biswaljyotirmaya&theme=react-dark" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biswaljyotirmaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=biswaljyotirmaya&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📬 Let's Connect
-
-- 📧 **Email**: [jyotirmayabiswal03@gmail.com](mailto:jyotirmayabiswal03@gmail.com)
-- 💼 **LinkedIn**: [Jyotirmaya Biswal](https://linkedin.com/in/jyotirmayabiswal03)
-- 🌐 **Portfolio**: [Coming Soon]
-
----
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=biswaljyotirmaya&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biswaljyotirmaya&style=flat-square&color=ff69b4" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=biswaljyotirmaya&theme=radical&no-frame=true&row=2&column=4&margin-w=15" />
+</p>
+
+## 🎯 Beyond Code
+
+```python
+interests = [
+    "⚡ Competitive Programming",
+    "🌱 Open Source Contributions",
+    "🏏 Cricket Enthusiast",
+    "🎵 Music while coding",
+    "📚 Tech Blog Reading"
+]
+```
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:jyotirmayabiswal03@gmail.com"><img src="https://img.shields.io/badge/Email-jyotirmayabiswal03%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/jyotirmayabiswal03"><img src="https://img.shields.io/badge/LinkedIn-Jyotirmaya%20Biswal-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/biswaljyotirmaya"><img src="https://img.shields.io/badge/GitHub-biswaljyotirmaya-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=biswaljyotirmaya&label=Profile%20Views&color=3B82F6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/biswaljyotirmaya?style=social" />
+  <img src="https://img.shields.io/github/stars/biswaljyotirmaya?style=social" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
