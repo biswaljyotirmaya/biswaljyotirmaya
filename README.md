@@ -117,12 +117,13 @@ Tech Stack: Java | Spring Boot | React | MySQL
 ## ✨ GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biswaljyotirmaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswaljyotirmaya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biswaljyotirmaya&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/biswaljyotirmaya/biswaljyotirmaya/output/github-contribution-grid-snake.svg" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biswaljyotirmaya&theme=github_dark" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biswaljyotirmaya&theme=github_dark" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biswaljyotirmaya&theme=github_dark" />
 </p>
 
 ## 🎯 Beyond Code
