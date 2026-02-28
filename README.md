@@ -117,12 +117,12 @@ Tech Stack: Java | Spring Boot | React | MySQL
 ## ✨ GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biswaljyotirmaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=biswaljyotirmaya&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biswaljyotirmaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswaljyotirmaya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=biswaljyotirmaya&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://raw.githubusercontent.com/biswaljyotirmaya/biswaljyotirmaya/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 🎯 Beyond Code
